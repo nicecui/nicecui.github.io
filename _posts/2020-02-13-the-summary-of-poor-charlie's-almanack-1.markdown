@@ -2,7 +2,7 @@
 layout: post
 title:  《穷查理宝典》整理 —— 思维模式和生活态度
 date:   2020-02-13 15:00:43 +0800
-preview: 逆向思考、学习和努力生活。
+preview: 逆向思考，如何学习、生活中的态度。
 categories: thinking
 ---
 
