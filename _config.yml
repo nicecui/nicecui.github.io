@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 毅然的学习笔记
+title: 毅然的空间
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   工作、学习、生活
