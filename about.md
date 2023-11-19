@@ -1,6 +1,7 @@
 ---
 layout: article
 titles:
+  # @start locale config
   en      : &EN       About
   en-GB   : *EN
   en-US   : *EN
@@ -15,11 +16,14 @@ titles:
   zh-HK   : *ZH_HANT
   ko      : &KO       소개
   ko-KR   : *KO
+  fr      : &FR       À propos
+  fr-BE   : *FR
+  fr-CA   : *FR
+  fr-CH   : *FR
+  fr-FR   : *FR
+  fr-LU   : *FR
+  # @end locale config
 key: page-about
 ---
 
-毅然放置学习资料的地方：工作、技术、生活。
-
-<!-- {% highlight javascript %}
-(() => console.log('hello, world!'))();
-{% endhighlight %} -->
+毅然放置资料的地方：工作、技术、生活。
